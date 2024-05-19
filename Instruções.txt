@@ -1,0 +1,9 @@
+Instruções de uso do programa Conversor de imagens
+
+OBS: Caso você não tenha instalado a biblioteca Pillow , abra o Processador de comandos (CMD) e digite o seguinte comando:
+pip install pillow
+
+1- Abra o programa "Conversor de imagens para preto e branco.py" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- Selecione arrastando o arquivo de imagem para dentro do console (tela preta) e aperte ENTER.
